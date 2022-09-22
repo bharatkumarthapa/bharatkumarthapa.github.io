@@ -5,9 +5,9 @@
 My favorite code quote, "<span id="k">If you don't have any skills help others😂</span>". 
 
 Hey There! This is the portflio website in the skin of a terminal.<p> As you can see, what my portfolio looks like. And you can guess who I am🙈</p>
-<p>Hello guys I'm a pull stack developer and contributor</p> 
-<p> <a href="https://bharatkumarthapa.github.io/">again</a>.</p>
-<p></p>
+<p>Hello guys I'm a pull stack developer and contributor
+ <a href="https://bharatkumarthapa.github.io/">again</a>.</p>
+
 <p> I don't have a job so I will be available anytime. Connect with me and text me on my social media.
 If you guys want's to connect with me on any social media links are given:
 
@@ -15,7 +15,7 @@ If you guys want's to connect with me on any social media links are given:
 <a href="https://t.me/bharatkumarthapa">Telegram</a>
 <a href="https://www.reddit.com/user/bharatkumarthapa">Reddit</a>
 <a href="https://github.com/bharatkumarthapa">Github</a>
-<a href="https://open.spotify.com/user/31yxy5sa3bp3iunr7d6payyjd6sy">spotify</a>
+<a href="https://open.spotify.com/user/31yxy5sa3bp3iunr7d6payyjd6sy">Spotify</a>
 </p>
 
 Feel free to send me an email at <a href="bharatkumarthapa@gmail.com">Email</a>.
