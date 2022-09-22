@@ -95,7 +95,7 @@ function replaceUrls(text) {
   }
 }
 
-Typer.speed = 4;
+Typer.speed = 2;
 Typer.file = 'bharatkumarthapa.txt';
 Typer.init();
 
