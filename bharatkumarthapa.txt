@@ -2,12 +2,12 @@
 
 <span id="a">cpfs@bharat</span>:<span id="b">~</span><span id="c">$</span> cd cpfs@bharat / About_me
 <span id="a">cpfs@bharat</span>:<span id="b">~</span><span id="c">$</span> cat bharatkumarthapa.txt<br/><br/>
-My favorite code quote, "<span id="k">If you don't have any skills help others😂</span>". 
+My favorite code quote, "<span id="k">The difference between stupidity and genius is that genius has its limits</span>". 
 
 Hey There! This is the portflio website in the skin of a terminal.<p> As you can see, what my portfolio looks like. And you can guess who I am🙈</p>
 <p>Hello guys I'm a pull  stack developer and contributor
  <a href="https://bharatkumarthapa.github.io/">again</a>.</p>
-<p> I don't have a job so I will be available anytime. Connect with me and text me on my social media.
+<p> I don't have any job so I will be available anytime. Connect with me and text me on my social media.
 If you guys still wants to connect with me on any social media links are given:
 
 <a href="https://www.linkedin.com/in/bharatkumarthapa/">Linkedin</a> 
