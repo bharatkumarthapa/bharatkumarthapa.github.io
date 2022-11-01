@@ -23,7 +23,7 @@ Hey There! This is the portfolio website in the skin of a terminal.<p> As you ca
 > This months again, Start <span id="d">crying</span> and yelling at me
 > She asked to find a <span id="d">job in IT</span>
 > Since I sit all day next to my PC
-> I know very little about IT, besides <span id="a">games</span>
+> I know very little about IT, besides <span id="d">games</span>
 > It reminds me IT stories
 > What job in It can I get?😕☁
 
