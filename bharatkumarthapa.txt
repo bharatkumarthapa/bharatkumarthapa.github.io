@@ -8,9 +8,11 @@ Hey There! This is the portfolio website in the skin of a terminal.<p> As you ca
 <p>Hello guys I'm a pull  stack developer and contributor
  <a href="https://bharatkumarthapa.github.io/">again</a>.</p>
 <p> I don't have any job. So that I'll be available anytime. Connect and text with me on social media.
-<b> The Story </b>
 <br>
->22 and still at home
+    <b> The Story </b>
+<type="datetime-local">
+
+    > 22 and still at home
 
 > No job
 > No Driving licence
@@ -24,6 +26,7 @@ Hey There! This is the portfolio website in the skin of a terminal.<p> As you ca
 > I know very little about IT, besides games 
 > It reminds me IT stories
 > What job in It can I get?😕☁
+
 If you guys still wants to connect with me on any social media links are given:
 
 <a href="https://www.linkedin.com/in/bharatkumarthapa/">Linkedin</a> 
