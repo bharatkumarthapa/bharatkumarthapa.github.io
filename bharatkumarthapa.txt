@@ -15,7 +15,7 @@ Hey There! This is the portfolio website in the skin of a terminal.<p> As you ca
     <p style="color:red;">>Be me</p>
     > 22 and still at home
 
-> No <p style="color:red;">Job</p>
+ <p >No style="color:red;">Job</p>
 > No Driving <style="color:red;"licence>
 > Just pay for electricity and gas
 > Now I pay just for gas
