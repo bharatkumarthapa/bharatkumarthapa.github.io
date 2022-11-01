@@ -14,17 +14,16 @@ Hey There! This is the portfolio website in the skin of a terminal.<p> As you ca
 <type="datetime-local">
     <p style="color:red;">>Be me</p>
     > 22 and still at home
-
- <p >No style="color:red;">Job</p>
-> No Driving <style="color:red;"licence>
+> No Job
+> No Driving licence
 > Just pay for electricity and gas
 > Now I pay just for gas
 > Family comes into my room every months and <p style="color:red;">telling</p> me I need to find a job
 > It stresses me out and angers me 
-> This months again, Start <p style="color:red;">crying</p> and yelling at me
-> She asked to find a <p style="color:red;">job in IT</p> 
+> This months again, Start crying and yelling at me
+> She asked to find a job in IT 
 > Since I sit all day next to my PC
-> I know very little about IT, besides <p style="color:red;">games</p>
+> I know very little about IT, besides games
 > It reminds me IT stories
 > What job in It can I get?😕☁
 
