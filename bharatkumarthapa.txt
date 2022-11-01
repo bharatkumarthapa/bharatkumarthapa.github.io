@@ -12,18 +12,18 @@ Hey There! This is the portfolio website in the skin of a terminal.<p> As you ca
 
     <b> The Story </b>
 <type="datetime-local">
-    <p style="color:red;">>Be me</p>
+    <span id="d">Be me</span>
     > 22 and still at home
-> No Job
-> No Driving licence
+> No <span id="d">Job</span>
+> No Driving <span id="d">licence</span>
 > Just pay for electricity and gas
-> Now I pay just for gas
-> Family comes into my room every months and <p style="color:red;">telling</p> me I need to find a job
+> Now I pay just for <span id="d">Gas</span>
+> Family comes into my room every months and <span id="d">telling</span> me I need to find a job
 > It stresses me out and angers me 
-> This months again, Start crying and yelling at me
-> She asked to find a job in IT 
+> This months again, Start <span id="d">crying</span> and yelling at me
+> She asked to find a <span id="d">job in IT</span>
 > Since I sit all day next to my PC
-> I know very little about IT, besides games
+> I know very little about IT, besides <span id="a">games</span>
 > It reminds me IT stories
 > What job in It can I get?😕☁
 
