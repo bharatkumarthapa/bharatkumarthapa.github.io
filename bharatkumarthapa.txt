@@ -9,6 +9,7 @@ Hey There! This is the portfolio website in the skin of a terminal.<p> As you ca
  <a href="https://bharatkumarthapa.github.io/">again</a>.</p>
 <p> I don't have any job. So that I'll be available anytime. Connect and text with me on social media.
 <br>
+
     <b> The Story </b>
 <type="datetime-local">
     ><p style="color:red;">Be me</p>
