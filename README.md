@@ -1,11 +1,11 @@
 
 The portfolio that runs only on PC browser. bharat kumar thapa don't know how to develop responsive personal web so.. let him continue
 
-### Hey👋, I'm __Thinam Tamang__ !:computer:
+### Hey👋, I'm __Bharat Kumar Thapa__ !:computer:
 
 I am a deep learning and machine learning practitioner and learner. Solving a problem and gaining insights with the help of machine learning algorithms has always seemed to be a superpower for me. I am here to solve things, Learning a lot in the process.
 
-<!-- I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**. I'm here to solve things, Learning a lot in the Process. -->
+<!-- I'm **Bharat Kumar Thapa**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**. I'm here to solve things, Learning a lot in the Process. -->
 
 **Publication:**  
 - [**Toward insights on antimicrobial selectivity of host defense peptides via machine learning model interpretation**](https://doi.org/10.1016/j.ygeno.2021.08.023)  
@@ -17,9 +17,9 @@ I am a deep learning and machine learning practitioner and learner. Solving a pr
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
 
 ### Connect with me 🤝:
-<a href="https://www.linkedin.com/in/thinam-tamang/"><img align="left" src="https://github.com/ThinamXx/ThinamXx/blob/master/images/linkedin.png" alt="ThinamXx | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/thinamcodes__/"><img align="left" src="https://github.com/ThinamXx/ThinamXx/blob/master/images/instagram.png" alt="ThinamXx | Instagram" width="21px"/></a>
-<a href="https://thinamxx.github.io/thinam.ai/"><img align="left" src="https://github.com/ThinamXx/ThinamXx/blob/master/images/medium.png" alt="ThinamXx | Medium" width="21px"/></a>
+<a href="https://www.linkedin.com/in/bharatkumarthapa/"><img align="left" src="https://github.com/bharatkumarthapa/bharatkumarthapa.github.io
+/blob/master/images/linkedin.png" alt="ThinamXx | LinkedIn" width="21px"/></a>
+
 </br>
 <!-- ### Find me around:
 - [LinkedIn](https://www.linkedin.com/in/thinam-tamang-3b12831a2/) :earth_asia:
