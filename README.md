@@ -18,12 +18,12 @@ I am a deep learning and machine learning practitioner and learner. Solving a pr
 
 ### Connect with me 🤝:
 <a href="https://www.linkedin.com/in/bharatkumarthapa/"><img align="left" src="https://github.com/bharatkumarthapa/bharatkumarthapa.github.io
-/blob/master/images/linkedin.png" alt="ThinamXx | LinkedIn" width="21px"/></a>
+/images/linkedin.png" alt="bharatkumarthapa| LinkedIn" width="21px"/></a>
 
 </br>
 <!-- ### Find me around:
-- [LinkedIn](https://www.linkedin.com/in/thinam-tamang-3b12831a2/) :earth_asia:
-- [Mail](https://www.linkedin.com/in/thinam-tamang-3b12831a2/) :email: -->
+- [LinkedIn](https://www.linkedin.com/in/bharatkumarthapa) :earth_asia:
+- [Mail](https://www.linkedin.com/in/bharatkumarthapa/) :email: -->
 
 ## **Language and Tools**
 
