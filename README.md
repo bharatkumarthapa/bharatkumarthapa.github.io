@@ -3,12 +3,12 @@ The portfolio that runs only on PC browser. bharat kumar thapa don't know how to
 
 ### Hey👋, I'm __Bharat Kumar Thapa__ !:computer:
 
-I am a deep learning and machine learning practitioner and learner. Solving a problem and gaining insights with the help of machine learning algorithms has always seemed to be a superpower for me. I am here to solve things, Learning a lot in the process.
+I am a Infosec and CS practitioner and learner. Solving a problem and gaining insights with the help of security research and pentest has always seemed to be a superpower for me. I am here to solve things, Learning a lot in the process.
 
-<!-- I'm **Bharat Kumar Thapa**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**. I'm here to solve things, Learning a lot in the Process. -->
+<!-- I'm **Bharat Kumar Thapa**, a **InfoSec* and **Pentesting** **CS** and **Learner**. I'm here to solve things, Learning a lot in the Process. -->
 <!-- 
 **Publication:**  
-- [**Toward insights on antimicrobial selectivity of host defense peptides via machine learning model interpretation**](https://bharatkumarthapa.github.io)   -->
+- [**Toward insights on antimicrobial selectivity of host defense peptides via Research model interpretation**](https://bharatkumarthapa.github.io)   -->
 
 **Updates:**
 
@@ -16,9 +16,9 @@ I am a deep learning and machine learning practitioner and learner. Solving a pr
 - 🌱 I’m currently learning **CS**. 
 - 👯 I’m looking to collaborate on **Cyber Security**, **Pentesting** and **Researcher**
 
-### Connect with me 🤝:
+<!-- ### Connect with me 🤝:
 <a href="https://www.linkedin.com/in/bharatkumarthapa/"><img align="left" src="https://github.com/bharatkumarthapa/bharatkumarthapa.github.io
-/images/linkedin.png" alt="bharatkumarthapa | LinkedIn" width="21px"/></a>
+/images/linkedin.png" alt="bharatkumarthapa | LinkedIn" width="21px"/></a> -->
 
 </br>
 <!-- ### Find me around:
