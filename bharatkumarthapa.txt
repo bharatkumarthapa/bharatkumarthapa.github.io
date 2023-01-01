@@ -12,7 +12,7 @@ Hey There! This is the portfolio website in the skin of a terminal.<p> As you ca
 
     <b> The Story </b>
 <type="datetime-local">
-   > <span id="d">Be me</span>
+   ><span id="d">Be me</span>
     > 22 and still at home
 > No <span id="d">Job</span>
 > No Driving <span id="d">licence</span>
