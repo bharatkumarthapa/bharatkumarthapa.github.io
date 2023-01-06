@@ -45,7 +45,7 @@ fastbook.setup_book()
 ```
 
 <!--
-**ThinamXx/ThinamXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bharatkumarthapa/bharatkumarthapa* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working as a Developer Internship at [**Information and Language Processing Research Lab**](https://ilprl.ku.edu.np/)
