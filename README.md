@@ -1,5 +1,5 @@
 
-The portfolio that runs only on PC browser. bharat kumar thapa don't know how to develop responsive personal web so.. let him continue
+The portfolio that runs only on PC browser. It's not responsive but let it to be continue
 
 ### Hey👋, I'm __Bharat Kumar Thapa__ !:computer:
 
