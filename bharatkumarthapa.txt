@@ -28,7 +28,6 @@ Hey There! This is the portfolio website in the skin of a terminal.<p> As you ca
 
 If you guys still wants to connect with me on any social media links are given:
 <!---
-<a href="https://www.linkedin.com/in/bharatkumarthapa/">Linkedin</a> 
 <a href="https://www.reddit.com/user/bharatkumarthapa">Reddit</a>
 
 </p>
