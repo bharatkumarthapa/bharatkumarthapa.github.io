@@ -23,7 +23,7 @@ I am a Infosec and CS practitioner and learner. Solving a problem and gaining in
 </br>
 <!-- ### Find me around:
 - [LinkedIn](https://www.linkedin.com/in/bharatkumarthapa) :earth_asia:
-- [Mail](https://www.linkedin.com/in/bharatkumarthapa/) :email: -->
+ -->
 
 ## **Language and Tools**
 
