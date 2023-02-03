@@ -50,6 +50,7 @@ fastbook.setup_book()
 Here are some ideas to get you started:
 - 🔭 I’m currently working as a Developer Internship at [**Information and Language Processing Research Lab**](https://ilprl.ku.edu.np/)
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ..
+
+
 
 -->
