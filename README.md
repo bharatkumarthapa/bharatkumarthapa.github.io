@@ -21,7 +21,7 @@ I am a Infosec and CS practitioner and learner. Solving a problem and gaining in
 /images/linkedin.png" alt="bharatkumarthapa | LinkedIn" width="21px"/></a> -->
 
 </br>
-<!-- ### Find me around:
+<!-- ### 
 
  -->
 
