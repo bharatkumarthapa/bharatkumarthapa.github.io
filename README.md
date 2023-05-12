@@ -10,15 +10,15 @@ I am a Infosec and CS practitioner and learner. Solving a problem and gaining in
 **Publication:**  
 - [**Toward insights on antimicrobial selectivity of host defense peptides via Research model interpretation**](https://bharatkumarthapa.github.io)   -->
 
+You guys can contribute too :smile:
+<!-- 
 **Updates:**
 
 - 🔭 I’m also working on a Research paper related to Bioinformatics and Machine Learning. 
 - 🌱 I’m currently learning **CS**. 
 - 👯 I’m looking to collaborate on **Cyber Security**, **Pentesting** and **Researcher**
 
-<!-- ### Connect with me 🤝:
-<a href="https://www.linkedin.com/in/bharatkumarthapa/"><img align="left" src="https://github.com/bharatkumarthapa/bharatkumarthapa.github.io
-/images/linkedin.png" alt="bharatkumarthapa | LinkedIn" width="21px"/></a> -->
+
 
 </br>
 
@@ -34,18 +34,9 @@ I am a Infosec and CS practitioner and learner. Solving a problem and gaining in
 ```javascript
 !wget -c "https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz"
 ``` -->
-- Fast.ai : 
 
-```python
+
+<!-- ```python
 !pip install -Uqq fastbook
 import fastbook
-fastbook.setup_book()
-```
-
-<!--
-**bharatkumarthapa/bharatkumarthapa* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working as a Developer Internship at [**Information and Language Processing Research Lab**](https://ilprl.ku.edu.np/)
-
--->
+fastbook.setup_book() -->
