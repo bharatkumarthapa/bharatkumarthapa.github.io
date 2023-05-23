@@ -11,16 +11,7 @@ I am a Infosec and CS practitioner and learner. Solving a problem and gaining in
 - [**Toward insights on antimicrobial selectivity of host defense peptides via Research model interpretation**](https://bharatkumarthapa.github.io)   -->
 
 You guys can contribute too :smile:
-<!-- 
-**Updates:**
-
-- 🔭 I’m also working on a Research paper related to Bioinformatics and Machine Learning. 
-- 🌱 I’m currently learning **CS**. 
-- 👯 I’m looking to collaborate on **Cyber Security**, **Pentesting** and **Researcher**
-
-
-
-</br>
+<!--
 
 
 ## **Language and Tools**
