@@ -27,11 +27,11 @@ Hey There! This is the portfolio website in the skin of a terminal.<p> As you ca
 > What job in It can I get?😕☁
 
 If you guys still wants to connect with me on any social media links are given:
-<!---
+
 <a href="https://www.reddit.com/user/bharatkumarthapa">Reddit</a>
 
 </p>
---->
-I still don't know how to use insta😜. Feel free to send me an email in ___________gmail.com</a>.
+
+I still don't know how to use insta😜. Feel free to send me an message in bharatkumarthapa@proton.me</a>.
 
 <p>Cheers!🙌</p>
