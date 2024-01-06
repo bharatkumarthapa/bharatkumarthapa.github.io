@@ -48,7 +48,7 @@
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
 
-  <img src="https://namelessnerd-namelesssnerd.vercel.app/api/top-langs?username=bharatkumarthapa&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bharatkumarthapa&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
   <br>
 
@@ -78,7 +78,7 @@
 <div align="center" width="100%">
 <!--   wakatime table here -->
 </div>
-  <img src="https://wakatime.com/share/@namelessnerd/44631584-261a-4438-b5fa-5aee6a6d8e33.svg" alt="something went wrong" width="100%">
+  <img src="https://wakatime.com/share/@bharatkumarthapa/44631584-261a-4438-b5fa-5aee6a6d8e33.svg" alt="something went wrong" width="100%">
 
 </br>
 
