@@ -1,4 +1,4 @@
-<a href="https://profile.codersrank.io/user/namelesssnerd/">
+<a href="https://profile.codersrank.io/user/bharatkumarthapa/">
 <img src="./assets/coodingNight.gif" align="middle" alt="Banner" width="100%"/>
 </a>
 <img src="./assets/borderseparator.gif" width="100%"/>
@@ -7,7 +7,7 @@
 
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
-  <a href="https://profile.codersrank.io/user/namelesssnerd/">
+  <a href="https://profile.codersrank.io/user/bharatkumarthapa/">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Software%20Engineer%20|%20+Active%20Developer|%20+Pull-Stack%20Developer" alt="Hey, I'm Bharat and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
 </a>
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
@@ -69,7 +69,7 @@
   <div >
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatkumarthapa&theme=radical" width="47%" alt="streaks graph" />
 
-  <!--<img align="right" src="https://namelessnerd-namelesssnerd.vercel.app/api?username=bharatkumarthapa&theme=radical&show_icons=true&count_private=true" width="47%" alt="stats graph" /> -->
+  <!--<img align="right" src="https://namelessnerd-bharatkumarthapa.vercel.app/api?username=bharatkumarthapa&theme=radical&show_icons=true&count_private=true" width="47%" alt="stats graph" /> -->
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=bharatkumarthapa&theme=radical&show_icons=true&count_private=true" width="47%" alt="stats graph" />
 </div>
 </div> 
