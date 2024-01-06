@@ -51,9 +51,7 @@
   <img src="https://namelessnerd-namelesssnerd.vercel.app/api/top-langs?username=bharatkumarthapa&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
   <br>
 
-  <!--- <a href="https://namelessnerd.com/" target="_blank"> --->
-<!--     <img src="https://wakatime.com/badge/user/018b0e7e-6f88-48df-9a59-5b7be345ce7d.svg" alt="something went wrong" width="540px"> -->
-<!--   </a>  -->
+  
   <br>
   
   <h2></h2>
@@ -64,7 +62,7 @@
 
 <div align="center">
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=bharatkumarthapa&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=bharatkumarthapa&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <div >
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatkumarthapa&theme=radical" width="47%" alt="streaks graph" />
 <!--     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatkumarthapa&theme=radical" alt="streaks graph" /> -->
@@ -103,23 +101,23 @@
 
 <div align="center">
   <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
-  <a href="https://www.facebook.com/namelesssnerd" target="_blank">
+  <a href="https://www.facebook.com/" target="_blank">
     <img src="./assets/logos/facebook.png" width="48px" alt="Facebook"/>
   </a>
   &nbsp
-  <a href="https://twitter.com/namelessnerd" target="_blank">
+  <a href="https://twitter.com/" target="_blank">
     <img src="./assets/logos/twitter.png" width="48px" alt="Twitter"/>
   </a>
   &nbsp
-  <a href="https://www.instagram.com/namelesssnerd" target="_blank">
+  <a href="https://www.instagram.com/" target="_blank">
     <img src="./assets/logos/instagram.png" width="48px" alt="Instagram"/>
   </a>
   &nbsp
-  <a href="https://www.linkedin.com/in/sushant-khadka5/" target="_blank">
+  <a href="https://www.linkedin.com/in/" target="_blank">
     <img src="./assets/logos/linkedin.png" width="48px" alt="LinkedIn"/>
   </a>
   &nbsp
-  <a href="https://discord.com/users/962694718347702292" target="_blank">
+  <a href="https://discord.com/users/" target="_blank">
     <img src="./assets/logos/discord.png" width="48px" alt="Discord"/>
   </a>
 </div>
