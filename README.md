@@ -49,6 +49,7 @@
   <br>
 
   <img src="https://namelessnerd-namelesssnerd.vercel.app/api/top-langs?username=bharatkumarthapa&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bharatkumarthapa&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
   <br>
 
   
@@ -62,6 +63,8 @@
 
 <div align="center">
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
+  <!--https://github.com/ryo-ma/github-profile-trophy.git ||FOR THEME|| -->
+
   <img src="https://github-profile-trophy.vercel.app/?username=bharatkumarthapa&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <div >
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatkumarthapa&theme=radical" width="47%" alt="streaks graph" />
