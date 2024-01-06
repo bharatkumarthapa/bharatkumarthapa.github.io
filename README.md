@@ -17,7 +17,7 @@
 
 <div align="center">
   <p><b>Profile Views</b></p>
-  <!-- <img src="https://profile-counter.glitch.me/NamelesssNerd/count.svg" /> -->
+  <!-- <img src="https://profile-counter.glitch.me/bharatkumarthapa/count.svg" /> -->
 <img src="https://komarev.com/ghpvc/?username=estd20xx&label=Profile%20Visits&color=129e00&style=plastic"/>
 </div>
 
@@ -48,7 +48,7 @@
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
 
-  <img src="https://namelessnerd-namelesssnerd.vercel.app/api/top-langs?username=NamelesssNerd&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  <img src="https://namelessnerd-namelesssnerd.vercel.app/api/top-langs?username=bharatkumarthapa&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
   <br>
 
   <!--- <a href="https://namelessnerd.com/" target="_blank"> --->
@@ -64,11 +64,11 @@
 
 <div align="center">
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=NamelesssNerd&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=bharatkumarthapa&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <div >
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NamelesssNerd&theme=radical" width="47%" alt="streaks graph" />
-<!--     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NamelesssNerd&theme=radical" alt="streaks graph" /> -->
-  <img align="right" src="https://namelessnerd-namelesssnerd.vercel.app/api?username=NamelesssNerd&theme=radical&show_icons=true&count_private=true" width="47%" alt="stats graph" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatkumarthapa&theme=radical" width="47%" alt="streaks graph" />
+<!--     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatkumarthapa&theme=radical" alt="streaks graph" /> -->
+  <img align="right" src="https://namelessnerd-namelesssnerd.vercel.app/api?username=bharatkumarthapa&theme=radical&show_icons=true&count_private=true" width="47%" alt="stats graph" />
 </div>
 </div> 
 
