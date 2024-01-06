@@ -78,6 +78,7 @@
 <br />
 <div align="center" width="100%">
 <!--   wakatime table here -->
+<br>
 </div>
   <!-- <img src="https://wakatime.com/share/@bharatkumarthapa/44631584-261a-4438-b5fa-5aee6a6d8e33.svg" alt="something went wrong" width="100%"> -->
 
@@ -88,10 +89,7 @@
 <h2></h2>
 
 
-
-
-
-## <h2 align="center"> Random Programming Jokes :laugh</h2>
+## <h2 align="center"> Random Programming Jokes ![laugh](image.png)</h2>
 <!-- Markdown -->
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react&qColor=%23944bcc&aColor=%23bbdb51" width="100%"/>
