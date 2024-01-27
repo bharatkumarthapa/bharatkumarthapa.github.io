@@ -90,7 +90,7 @@
 
 
 ## <h2 align="center"> Random Programming Jokes 🤣</h2>
-<!-- Markdown
+<!-- Markdown -->
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react&qColor=%23944bcc&aColor=%23bbdb51" width="100%"/>
 
