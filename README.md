@@ -82,9 +82,9 @@
     <a> 
         <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms#gh-dark-mode-only" alt="Daily Quotes">
     </a>
-    <a> 
+    <!-- <a> 
         <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=vue#gh-light-mode-only" alt="Daily Quotes">
-    </a>
+    </a> -->
 </div></h2>
 
 
@@ -99,22 +99,22 @@
   <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
 
   <a href="https://linkedin.com/in/bharatkumarthapa">
-    <img alt="Bharat Kumar Thapa - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+    <img alt="Bharat Kumar Thapa - LinkedIn" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
   </a>
   <a href="https://instagram.com/">
-    <img alt="Bharat Kumar Thapa - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+    <img alt="Bharat Kumar Thapa - Instagram" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
   </a>
   <a href="https://twitter.com/bhar">
-    <img alt="Bharat Kumar Thapa - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+    <img alt="Bharat Kumar Thapa - Twitter" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
   </a>
   <a href="https://faceboom/bharat">
-    <img alt="Bharat Kumar Thapa - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
+    <img alt="Bharat Kumar Thapa - Facebook" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
   </a>
   <a href="https://reddit.com/">
-    <img alt="Bharat Kumar Thapa - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg"/>
+    <img alt="Bharat Kumar Thapa - Facebook" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg"/>
   </a>
   <a href="">
-    <img alt="Bharat Kumar Thapa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg"/>
+    <img alt="Bharat Kumar Thapa" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg"/>
   </a>
 
 </div>
