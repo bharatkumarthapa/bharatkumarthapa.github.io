@@ -86,12 +86,33 @@
         <img src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=vue#gh-light-mode-only" alt="Daily Quotes">
     </a> -->
 </div></h2>
+<br>
 
+<img src="./assets/animated-flame-01.gif" width="16px" align="left" />
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+<div align="center">
 
-## <h2 align="center"> Random Programming Jokes 🤣</h2>
+## Random Programming Jokes 
+<div>
+    <a href ="https://spotify-recently-played-readme.vercel.app/api?user=31yxy5sa3bp3iunr7d6payyjd6sy"> 
+        <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react&qColor=%23944bcc&aColor=%23bbdb51" width="100%"/>
+    </a>
+</div>
 <!-- Markdown -->
+<h2><h2>
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react&qColor=%23944bcc&aColor=%23bbdb51" width="100%"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="left" />
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+<div align="center">
+
+## 🎧 Vibing to Tunes
+<div>
+    &emsp;&emsp;&emsp;
+    <!-- <a href="https://open.spotify.com/user/12136120750#gh-dark-mode-only"> -->
+    <a href ="https://spotify-recently-played-readme.vercel.app/api?user=31yxy5sa3bp3iunr7d6payyjd6sy#gh-dark-mode-only"> 
+        <img src="https://github-readme-spotify-widget-mu.vercel.app/api?scan=true&theme=dark&rainbow=true#gh-dark-mode-only" alt="Current Spotify Song">
+    </a>
+</div>
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left" />
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
