@@ -9,7 +9,7 @@ Hey There! This is the portfolio website in the skin of a terminal.<p> As you ca
 <p> I don't have any job. So that I'll be available anytime. Connect and text with me on social media.
 <br>
 
-    <b> The Story </b>
+    <b> This is the Story </b>
    > <span id="d">Be me</span>
     > 22 and still at home
 > No <span id="d">Job</span>
