@@ -5,7 +5,7 @@
 My favorite code quote, "<span id="k">The difference between stupidity and genius is that genius has its limits</span>". 
 
 Hey There! This is the portfolio website in the skin of a terminal.<p> As you can see, what my portfolio looks like. And you can guess who I am🙈</p>
-<p>Hello guys I'm a pull  stack developer and contributor <a href="https://bharatkumarthapa.github.io/">here</a>.</p>
+<p>Hello guys I'm a pull Stack developer and contributor <a href="https://bharatkumarthapa.github.io/">here</a>.</p>
 <p> I don't have any job. So that I'll be available anytime. Connect and text with me on social media.
 <br>
 
@@ -23,14 +23,24 @@ Hey There! This is the portfolio website in the skin of a terminal.<p> As you ca
 > Since I sit all day next to my PC
 > I know very little about IT, besides <span id="d">games</span>
 > It reminds me IT stories
-> What job in It can I get?😕☁
+> What job in it can I get?😕
+>Mastered the ancient art of paying only for gas. Who needs electricity, right? 😅
+>Thinking of starting 'Schemin' Dreams IT Services.' Motto: 'We'll fix your tech and make you smile!' 
+
+But fear not, I am a master of disguise! By day, I may seem like a jobless IT enthusiast, 
+but by night, I am the hero of my own virtual world, coding away and dreaming of electric sheep. 
+Join me on this epic quest as we navigate the realms of technology and hilarity, 
+one line of code at a time!
 
 If you guys still wants to connect with me on any social media links are given:
+<a href="https://linktr.ee/bharatkumarthapa">CONNECT</a>
 
-<a href="https://www.reddit.com/user/bharatkumarthapa">Reddit</a>
+"Hey there! Join me on a journey of schemes and dreams,
+ where I'm always chasing that light. From tech tips to spreading smiles, 
+ let's make the virtual world a bit more fun! #ScheminAndDreamin" 
 
 </p>
 
-I still don't know how to use insta😜. Feel free to send me an message in bharatkumarthapa@proton.me</a>.
+I still don't know how to use insta😜. Feel free to send me an message in <a href="https://linktr.ee/bharatkumarthapa">here</a></a>.
 
 <p>Cheers!🙌</p>
